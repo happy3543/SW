@@ -1,1 +1,3 @@
 여행 사이트 만들기
+
+1. make your home page 
